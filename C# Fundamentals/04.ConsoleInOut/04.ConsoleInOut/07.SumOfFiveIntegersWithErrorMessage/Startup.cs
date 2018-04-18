@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace _07.SumOfFiveIntegersWithErrorMessage
 {
@@ -10,17 +6,70 @@ namespace _07.SumOfFiveIntegersWithErrorMessage
     {
         static void Main()
         {
-            int a;
-            string errorMessage = "Enter an integer";
-            Console.Write("Enter five numbers. After every number hit Enter button: \n");
-            bool firstBool = int.TryParse(Console.ReadLine(), out a);
-
+            int a,b,c,d,e;
+            bool parseSucceed = false;
             
-            int second = int.Parse(Console.ReadLine());
-            int third = int.Parse(Console.ReadLine());
-            int fourth = int.Parse(Console.ReadLine());
-            int fifth = int.Parse(Console.ReadLine());
+            //for (int i = 1; i <= 5; i++)
+            //{
+                //int a;
 
+                do
+                {
+                    Console.Write("Enter first number: ");
+                    parseSucceed = Int32.TryParse(Console.ReadLine(), out a);
+                    if (parseSucceed == false)
+                    {
+                        Console.WriteLine("Enter an integer!");
+                    }
+                }
+                while (!parseSucceed);
+
+                do
+                {
+                    Console.Write("Enter second number: ");
+                    parseSucceed = Int32.TryParse(Console.ReadLine(), out b);
+                    if (parseSucceed == false)
+                    {
+                        Console.WriteLine("Enter an integer!");
+                    }
+                }
+                while (!parseSucceed);
+
+                do
+                {
+                    Console.Write("Enter third number: ");
+                    parseSucceed = Int32.TryParse(Console.ReadLine(), out c);
+                    if (parseSucceed == false)
+                    {
+                        Console.WriteLine("Enter an integer!");
+                    }
+                }
+                while (!parseSucceed);
+
+                do
+                {
+                    Console.Write("Enter fourth number: ");
+                    parseSucceed = Int32.TryParse(Console.ReadLine(), out d);
+                    if (parseSucceed == false)
+                    {
+                        Console.WriteLine("Enter an integer!");
+                    }
+                }
+                while (!parseSucceed);
+
+                do
+                {
+                    Console.Write("Enter fifth number: ");
+                    parseSucceed = Int32.TryParse(Console.ReadLine(), out e);
+                    if (parseSucceed == false)
+                    {
+                        Console.WriteLine("Enter an integer!");
+                    }
+                }
+                while (!parseSucceed);
+            //}
+
+            Console.WriteLine("Sum of numbers is: " + (a + b + c + d + e) + " .\n");
         }
     }
 }
