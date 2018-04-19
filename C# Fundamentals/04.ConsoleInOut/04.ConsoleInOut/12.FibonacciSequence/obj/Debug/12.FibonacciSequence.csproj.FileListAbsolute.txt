@@ -5,3 +5,10 @@ E:\Programs\GitRepository\C# Fundamentals\04.ConsoleInOut\04.ConsoleInOut\12.Fib
 E:\Programs\GitRepository\C# Fundamentals\04.ConsoleInOut\04.ConsoleInOut\12.FibonacciSequence\obj\Debug\12.FibonacciSequence.csproj.CoreCompileInputs.cache
 E:\Programs\GitRepository\C# Fundamentals\04.ConsoleInOut\04.ConsoleInOut\12.FibonacciSequence\obj\Debug\12.FibonacciSequence.exe
 E:\Programs\GitRepository\C# Fundamentals\04.ConsoleInOut\04.ConsoleInOut\12.FibonacciSequence\obj\Debug\12.FibonacciSequence.pdb
+D:\Programs\GitRepository\C# Fundamentals\04.ConsoleInOut\04.ConsoleInOut\12.FibonacciSequence\bin\Debug\12.FibonacciSequence.exe.config
+D:\Programs\GitRepository\C# Fundamentals\04.ConsoleInOut\04.ConsoleInOut\12.FibonacciSequence\bin\Debug\12.FibonacciSequence.exe
+D:\Programs\GitRepository\C# Fundamentals\04.ConsoleInOut\04.ConsoleInOut\12.FibonacciSequence\bin\Debug\12.FibonacciSequence.pdb
+D:\Programs\GitRepository\C# Fundamentals\04.ConsoleInOut\04.ConsoleInOut\12.FibonacciSequence\obj\Debug\12.FibonacciSequence.csprojResolveAssemblyReference.cache
+D:\Programs\GitRepository\C# Fundamentals\04.ConsoleInOut\04.ConsoleInOut\12.FibonacciSequence\obj\Debug\12.FibonacciSequence.csproj.CoreCompileInputs.cache
+D:\Programs\GitRepository\C# Fundamentals\04.ConsoleInOut\04.ConsoleInOut\12.FibonacciSequence\obj\Debug\12.FibonacciSequence.exe
+D:\Programs\GitRepository\C# Fundamentals\04.ConsoleInOut\04.ConsoleInOut\12.FibonacciSequence\obj\Debug\12.FibonacciSequence.pdb
