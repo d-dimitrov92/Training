@@ -1,0 +1,7 @@
+D:\Programs\GitRepository\C# Fundamentals\05.ConditionalStatements\02.PlusOrMinus\bin\Debug\02.PlusOrMinus.exe.config
+D:\Programs\GitRepository\C# Fundamentals\05.ConditionalStatements\02.PlusOrMinus\bin\Debug\02.PlusOrMinus.exe
+D:\Programs\GitRepository\C# Fundamentals\05.ConditionalStatements\02.PlusOrMinus\bin\Debug\02.PlusOrMinus.pdb
+D:\Programs\GitRepository\C# Fundamentals\05.ConditionalStatements\02.PlusOrMinus\obj\Debug\02.PlusOrMinus.csprojResolveAssemblyReference.cache
+D:\Programs\GitRepository\C# Fundamentals\05.ConditionalStatements\02.PlusOrMinus\obj\Debug\02.PlusOrMinus.csproj.CoreCompileInputs.cache
+D:\Programs\GitRepository\C# Fundamentals\05.ConditionalStatements\02.PlusOrMinus\obj\Debug\02.PlusOrMinus.exe
+D:\Programs\GitRepository\C# Fundamentals\05.ConditionalStatements\02.PlusOrMinus\obj\Debug\02.PlusOrMinus.pdb

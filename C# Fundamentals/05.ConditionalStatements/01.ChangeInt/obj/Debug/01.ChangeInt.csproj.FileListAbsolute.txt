@@ -1,0 +1,7 @@
+D:\Programs\GitRepository\C# Fundamentals\05.ConditionalStatements\01.ChangeInt\bin\Debug\01.ChangeInt.exe.config
+D:\Programs\GitRepository\C# Fundamentals\05.ConditionalStatements\01.ChangeInt\bin\Debug\01.ChangeInt.exe
+D:\Programs\GitRepository\C# Fundamentals\05.ConditionalStatements\01.ChangeInt\bin\Debug\01.ChangeInt.pdb
+D:\Programs\GitRepository\C# Fundamentals\05.ConditionalStatements\01.ChangeInt\obj\Debug\01.ChangeInt.csprojResolveAssemblyReference.cache
+D:\Programs\GitRepository\C# Fundamentals\05.ConditionalStatements\01.ChangeInt\obj\Debug\01.ChangeInt.csproj.CoreCompileInputs.cache
+D:\Programs\GitRepository\C# Fundamentals\05.ConditionalStatements\01.ChangeInt\obj\Debug\01.ChangeInt.exe
+D:\Programs\GitRepository\C# Fundamentals\05.ConditionalStatements\01.ChangeInt\obj\Debug\01.ChangeInt.pdb

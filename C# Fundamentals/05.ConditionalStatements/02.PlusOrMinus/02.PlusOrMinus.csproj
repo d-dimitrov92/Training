@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{A4042B3A-64D4-482C-A746-040D9D4C941B}</ProjectGuid>
+    <ProjectGuid>{9F9A6886-1697-41A3-A130-072912828682}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_01.ChangeInt</RootNamespace>
-    <AssemblyName>01.ChangeInt</AssemblyName>
+    <RootNamespace>_02.PlusOrMinus</RootNamespace>
+    <AssemblyName>02.PlusOrMinus</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
