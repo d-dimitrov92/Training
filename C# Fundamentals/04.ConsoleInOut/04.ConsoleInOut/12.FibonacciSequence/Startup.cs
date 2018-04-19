@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace _12.FibonacciSequence
 {
@@ -10,12 +6,20 @@ namespace _12.FibonacciSequence
     {
         static void Main()
         {
-            int result;
-            int a = 0;
-            int b = 1;
-            for (int i = 1; i<100; i++)
+            int num1 = 0;
+            int num2 = 1;
+            int sum = 1;
+            int count = 0;
+
+            Console.WriteLine(num1);
+
+            while (count < 100)
             {
-                
+                sum = num1 + num2;
+                num1 = num2;
+                num2 = sum;
+                Console.WriteLine(num2);
+                count++;
             }
         }
     }
