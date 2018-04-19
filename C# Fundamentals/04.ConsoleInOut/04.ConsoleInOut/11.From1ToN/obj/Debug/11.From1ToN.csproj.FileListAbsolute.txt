@@ -1,0 +1,6 @@
+E:\Programs\GitRepository\C# Fundamentals\04.ConsoleInOut\04.ConsoleInOut\11.From1ToN\bin\Debug\11.From1ToN.exe.config
+E:\Programs\GitRepository\C# Fundamentals\04.ConsoleInOut\04.ConsoleInOut\11.From1ToN\bin\Debug\11.From1ToN.exe
+E:\Programs\GitRepository\C# Fundamentals\04.ConsoleInOut\04.ConsoleInOut\11.From1ToN\bin\Debug\11.From1ToN.pdb
+E:\Programs\GitRepository\C# Fundamentals\04.ConsoleInOut\04.ConsoleInOut\11.From1ToN\obj\Debug\11.From1ToN.csproj.CoreCompileInputs.cache
+E:\Programs\GitRepository\C# Fundamentals\04.ConsoleInOut\04.ConsoleInOut\11.From1ToN\obj\Debug\11.From1ToN.exe
+E:\Programs\GitRepository\C# Fundamentals\04.ConsoleInOut\04.ConsoleInOut\11.From1ToN\obj\Debug\11.From1ToN.pdb

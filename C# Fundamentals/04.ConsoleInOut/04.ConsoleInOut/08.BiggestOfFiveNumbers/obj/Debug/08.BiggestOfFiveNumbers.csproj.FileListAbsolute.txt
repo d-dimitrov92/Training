@@ -1,0 +1,7 @@
+E:\Programs\GitRepository\C# Fundamentals\04.ConsoleInOut\04.ConsoleInOut\08.BiggestOfFiveNumbers\bin\Debug\08.BiggestOfFiveNumbers.exe.config
+E:\Programs\GitRepository\C# Fundamentals\04.ConsoleInOut\04.ConsoleInOut\08.BiggestOfFiveNumbers\bin\Debug\08.BiggestOfFiveNumbers.exe
+E:\Programs\GitRepository\C# Fundamentals\04.ConsoleInOut\04.ConsoleInOut\08.BiggestOfFiveNumbers\bin\Debug\08.BiggestOfFiveNumbers.pdb
+E:\Programs\GitRepository\C# Fundamentals\04.ConsoleInOut\04.ConsoleInOut\08.BiggestOfFiveNumbers\obj\Debug\08.BiggestOfFiveNumbers.csprojResolveAssemblyReference.cache
+E:\Programs\GitRepository\C# Fundamentals\04.ConsoleInOut\04.ConsoleInOut\08.BiggestOfFiveNumbers\obj\Debug\08.BiggestOfFiveNumbers.csproj.CoreCompileInputs.cache
+E:\Programs\GitRepository\C# Fundamentals\04.ConsoleInOut\04.ConsoleInOut\08.BiggestOfFiveNumbers\obj\Debug\08.BiggestOfFiveNumbers.exe
+E:\Programs\GitRepository\C# Fundamentals\04.ConsoleInOut\04.ConsoleInOut\08.BiggestOfFiveNumbers\obj\Debug\08.BiggestOfFiveNumbers.pdb

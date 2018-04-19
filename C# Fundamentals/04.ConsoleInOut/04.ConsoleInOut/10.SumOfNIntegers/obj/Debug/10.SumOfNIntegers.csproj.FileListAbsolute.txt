@@ -1,0 +1,7 @@
+E:\Programs\GitRepository\C# Fundamentals\04.ConsoleInOut\04.ConsoleInOut\10.SumOfNIntegers\bin\Debug\10.SumOfNIntegers.exe.config
+E:\Programs\GitRepository\C# Fundamentals\04.ConsoleInOut\04.ConsoleInOut\10.SumOfNIntegers\bin\Debug\10.SumOfNIntegers.exe
+E:\Programs\GitRepository\C# Fundamentals\04.ConsoleInOut\04.ConsoleInOut\10.SumOfNIntegers\bin\Debug\10.SumOfNIntegers.pdb
+E:\Programs\GitRepository\C# Fundamentals\04.ConsoleInOut\04.ConsoleInOut\10.SumOfNIntegers\obj\Debug\10.SumOfNIntegers.csprojResolveAssemblyReference.cache
+E:\Programs\GitRepository\C# Fundamentals\04.ConsoleInOut\04.ConsoleInOut\10.SumOfNIntegers\obj\Debug\10.SumOfNIntegers.csproj.CoreCompileInputs.cache
+E:\Programs\GitRepository\C# Fundamentals\04.ConsoleInOut\04.ConsoleInOut\10.SumOfNIntegers\obj\Debug\10.SumOfNIntegers.exe
+E:\Programs\GitRepository\C# Fundamentals\04.ConsoleInOut\04.ConsoleInOut\10.SumOfNIntegers\obj\Debug\10.SumOfNIntegers.pdb
