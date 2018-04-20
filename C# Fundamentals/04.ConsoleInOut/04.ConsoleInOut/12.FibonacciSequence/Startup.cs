@@ -11,16 +11,17 @@ namespace _12.FibonacciSequence
             int sum = 1;
             int count = 0;
 
-            Console.WriteLine(num1);
+            Console.Write(num1 + ", ");
 
             while (count < 100)
             {
                 sum = num1 + num2;
                 num1 = num2;
                 num2 = sum;
-                Console.WriteLine(num2);
+                Console.Write(num2 + ", ");
                 count++;
             }
+            Console.WriteLine("\n");
         }
     }
 }
