@@ -1,0 +1,6 @@
+D:\Programs\GitRepository\C# Fundamentals\05.ConditionalStatements\05.NameOfIntegerFrom0To9\bin\Debug\05.NameOfIntegerFrom0To9.exe.config
+D:\Programs\GitRepository\C# Fundamentals\05.ConditionalStatements\05.NameOfIntegerFrom0To9\bin\Debug\05.NameOfIntegerFrom0To9.exe
+D:\Programs\GitRepository\C# Fundamentals\05.ConditionalStatements\05.NameOfIntegerFrom0To9\bin\Debug\05.NameOfIntegerFrom0To9.pdb
+D:\Programs\GitRepository\C# Fundamentals\05.ConditionalStatements\05.NameOfIntegerFrom0To9\obj\Debug\05.NameOfIntegerFrom0To9.csproj.CoreCompileInputs.cache
+D:\Programs\GitRepository\C# Fundamentals\05.ConditionalStatements\05.NameOfIntegerFrom0To9\obj\Debug\05.NameOfIntegerFrom0To9.exe
+D:\Programs\GitRepository\C# Fundamentals\05.ConditionalStatements\05.NameOfIntegerFrom0To9\obj\Debug\05.NameOfIntegerFrom0To9.pdb

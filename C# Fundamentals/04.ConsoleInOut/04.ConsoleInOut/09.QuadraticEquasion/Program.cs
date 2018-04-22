@@ -27,8 +27,10 @@ namespace _09.QuadraticEquasion
 
             double d = b * b - 4 * a * c;
 
-            if (d < 0) Console.WriteLine("There are no real roots!");
-
+            if (d < 0)
+            {
+                Console.WriteLine("There are no real roots!");
+            }
             else if (d == 0)
             {
                 double x = - b / 2 * a;

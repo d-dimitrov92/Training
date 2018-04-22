@@ -1,0 +1,7 @@
+D:\Programs\GitRepository\C# Fundamentals\05.ConditionalStatements\10.BonusPointsMultiplied\bin\Debug\10.BonusPointsMultiplied.exe.config
+D:\Programs\GitRepository\C# Fundamentals\05.ConditionalStatements\10.BonusPointsMultiplied\bin\Debug\10.BonusPointsMultiplied.exe
+D:\Programs\GitRepository\C# Fundamentals\05.ConditionalStatements\10.BonusPointsMultiplied\bin\Debug\10.BonusPointsMultiplied.pdb
+D:\Programs\GitRepository\C# Fundamentals\05.ConditionalStatements\10.BonusPointsMultiplied\obj\Debug\10.BonusPointsMultiplied.csprojResolveAssemblyReference.cache
+D:\Programs\GitRepository\C# Fundamentals\05.ConditionalStatements\10.BonusPointsMultiplied\obj\Debug\10.BonusPointsMultiplied.csproj.CoreCompileInputs.cache
+D:\Programs\GitRepository\C# Fundamentals\05.ConditionalStatements\10.BonusPointsMultiplied\obj\Debug\10.BonusPointsMultiplied.exe
+D:\Programs\GitRepository\C# Fundamentals\05.ConditionalStatements\10.BonusPointsMultiplied\obj\Debug\10.BonusPointsMultiplied.pdb

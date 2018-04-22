@@ -4,3 +4,9 @@ E:\Programs\GitRepository\C# Fundamentals\04.ConsoleInOut\04.ConsoleInOut\09.Qua
 E:\Programs\GitRepository\C# Fundamentals\04.ConsoleInOut\04.ConsoleInOut\09.QuadraticEquasion\obj\Debug\09.QuadraticEquasion.csproj.CoreCompileInputs.cache
 E:\Programs\GitRepository\C# Fundamentals\04.ConsoleInOut\04.ConsoleInOut\09.QuadraticEquasion\obj\Debug\09.QuadraticEquasion.exe
 E:\Programs\GitRepository\C# Fundamentals\04.ConsoleInOut\04.ConsoleInOut\09.QuadraticEquasion\obj\Debug\09.QuadraticEquasion.pdb
+D:\Programs\GitRepository\C# Fundamentals\04.ConsoleInOut\04.ConsoleInOut\09.QuadraticEquasion\bin\Debug\09.QuadraticEquasion.exe.config
+D:\Programs\GitRepository\C# Fundamentals\04.ConsoleInOut\04.ConsoleInOut\09.QuadraticEquasion\bin\Debug\09.QuadraticEquasion.exe
+D:\Programs\GitRepository\C# Fundamentals\04.ConsoleInOut\04.ConsoleInOut\09.QuadraticEquasion\bin\Debug\09.QuadraticEquasion.pdb
+D:\Programs\GitRepository\C# Fundamentals\04.ConsoleInOut\04.ConsoleInOut\09.QuadraticEquasion\obj\Debug\09.QuadraticEquasion.csproj.CoreCompileInputs.cache
+D:\Programs\GitRepository\C# Fundamentals\04.ConsoleInOut\04.ConsoleInOut\09.QuadraticEquasion\obj\Debug\09.QuadraticEquasion.exe
+D:\Programs\GitRepository\C# Fundamentals\04.ConsoleInOut\04.ConsoleInOut\09.QuadraticEquasion\obj\Debug\09.QuadraticEquasion.pdb

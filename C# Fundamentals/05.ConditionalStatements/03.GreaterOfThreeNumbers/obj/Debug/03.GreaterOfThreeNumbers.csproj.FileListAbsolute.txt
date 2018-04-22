@@ -5,3 +5,10 @@ E:\Programs\GitRepository\C# Fundamentals\05.ConditionalStatements\03.GreaterOfT
 E:\Programs\GitRepository\C# Fundamentals\05.ConditionalStatements\03.GreaterOfThreeNumbers\obj\Debug\03.GreaterOfThreeNumbers.csproj.CoreCompileInputs.cache
 E:\Programs\GitRepository\C# Fundamentals\05.ConditionalStatements\03.GreaterOfThreeNumbers\obj\Debug\03.GreaterOfThreeNumbers.exe
 E:\Programs\GitRepository\C# Fundamentals\05.ConditionalStatements\03.GreaterOfThreeNumbers\obj\Debug\03.GreaterOfThreeNumbers.pdb
+D:\Programs\GitRepository\C# Fundamentals\05.ConditionalStatements\03.GreaterOfThreeNumbers\bin\Debug\03.GreaterOfThreeNumbers.exe.config
+D:\Programs\GitRepository\C# Fundamentals\05.ConditionalStatements\03.GreaterOfThreeNumbers\bin\Debug\03.GreaterOfThreeNumbers.exe
+D:\Programs\GitRepository\C# Fundamentals\05.ConditionalStatements\03.GreaterOfThreeNumbers\bin\Debug\03.GreaterOfThreeNumbers.pdb
+D:\Programs\GitRepository\C# Fundamentals\05.ConditionalStatements\03.GreaterOfThreeNumbers\obj\Debug\03.GreaterOfThreeNumbers.csprojResolveAssemblyReference.cache
+D:\Programs\GitRepository\C# Fundamentals\05.ConditionalStatements\03.GreaterOfThreeNumbers\obj\Debug\03.GreaterOfThreeNumbers.csproj.CoreCompileInputs.cache
+D:\Programs\GitRepository\C# Fundamentals\05.ConditionalStatements\03.GreaterOfThreeNumbers\obj\Debug\03.GreaterOfThreeNumbers.exe
+D:\Programs\GitRepository\C# Fundamentals\05.ConditionalStatements\03.GreaterOfThreeNumbers\obj\Debug\03.GreaterOfThreeNumbers.pdb
