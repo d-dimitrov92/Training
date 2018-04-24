@@ -1,0 +1,6 @@
+D:\Programs\GitRepository\C# Fundamentals\06.Loops\02.From1ToNVer2\bin\Debug\02.From1ToNVer2.exe.config
+D:\Programs\GitRepository\C# Fundamentals\06.Loops\02.From1ToNVer2\bin\Debug\02.From1ToNVer2.exe
+D:\Programs\GitRepository\C# Fundamentals\06.Loops\02.From1ToNVer2\bin\Debug\02.From1ToNVer2.pdb
+D:\Programs\GitRepository\C# Fundamentals\06.Loops\02.From1ToNVer2\obj\Debug\02.From1ToNVer2.csproj.CoreCompileInputs.cache
+D:\Programs\GitRepository\C# Fundamentals\06.Loops\02.From1ToNVer2\obj\Debug\02.From1ToNVer2.exe
+D:\Programs\GitRepository\C# Fundamentals\06.Loops\02.From1ToNVer2\obj\Debug\02.From1ToNVer2.pdb
