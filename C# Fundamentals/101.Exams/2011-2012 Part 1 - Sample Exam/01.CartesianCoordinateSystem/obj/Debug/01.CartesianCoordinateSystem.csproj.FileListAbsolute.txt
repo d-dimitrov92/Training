@@ -1,0 +1,7 @@
+D:\Programs\GitRepository\C# Fundamentals\101.Exams\2011-2012 Part 1 - Sample Exam\01.CartesianCoordinateSystem\bin\Debug\01.CartesianCoordinateSystem.exe.config
+D:\Programs\GitRepository\C# Fundamentals\101.Exams\2011-2012 Part 1 - Sample Exam\01.CartesianCoordinateSystem\bin\Debug\01.CartesianCoordinateSystem.exe
+D:\Programs\GitRepository\C# Fundamentals\101.Exams\2011-2012 Part 1 - Sample Exam\01.CartesianCoordinateSystem\bin\Debug\01.CartesianCoordinateSystem.pdb
+D:\Programs\GitRepository\C# Fundamentals\101.Exams\2011-2012 Part 1 - Sample Exam\01.CartesianCoordinateSystem\obj\Debug\01.CartesianCoordinateSystem.csprojResolveAssemblyReference.cache
+D:\Programs\GitRepository\C# Fundamentals\101.Exams\2011-2012 Part 1 - Sample Exam\01.CartesianCoordinateSystem\obj\Debug\01.CartesianCoordinateSystem.csproj.CoreCompileInputs.cache
+D:\Programs\GitRepository\C# Fundamentals\101.Exams\2011-2012 Part 1 - Sample Exam\01.CartesianCoordinateSystem\obj\Debug\01.CartesianCoordinateSystem.exe
+D:\Programs\GitRepository\C# Fundamentals\101.Exams\2011-2012 Part 1 - Sample Exam\01.CartesianCoordinateSystem\obj\Debug\01.CartesianCoordinateSystem.pdb
