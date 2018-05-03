@@ -6,8 +6,8 @@ namespace _01.CartesianCoordinateSystem
     {
         static void Main()
         {
-            int x = int.Parse(Console.ReadLine());
-            int y = int.Parse(Console.ReadLine());
+            decimal x = int.Parse(Console.ReadLine());
+            decimal y = int.Parse(Console.ReadLine());
 
             if (x > 0 && y > 0)
             {
