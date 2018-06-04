@@ -1,0 +1,7 @@
+D:\Programs\GitRepository\C# Fundamentals\06.Loops\06.Factoriel\bin\Debug\06.Factoriel.exe.config
+D:\Programs\GitRepository\C# Fundamentals\06.Loops\06.Factoriel\bin\Debug\06.Factoriel.exe
+D:\Programs\GitRepository\C# Fundamentals\06.Loops\06.Factoriel\bin\Debug\06.Factoriel.pdb
+D:\Programs\GitRepository\C# Fundamentals\06.Loops\06.Factoriel\obj\Debug\06.Factoriel.csprojResolveAssemblyReference.cache
+D:\Programs\GitRepository\C# Fundamentals\06.Loops\06.Factoriel\obj\Debug\06.Factoriel.csproj.CoreCompileInputs.cache
+D:\Programs\GitRepository\C# Fundamentals\06.Loops\06.Factoriel\obj\Debug\06.Factoriel.exe
+D:\Programs\GitRepository\C# Fundamentals\06.Loops\06.Factoriel\obj\Debug\06.Factoriel.pdb

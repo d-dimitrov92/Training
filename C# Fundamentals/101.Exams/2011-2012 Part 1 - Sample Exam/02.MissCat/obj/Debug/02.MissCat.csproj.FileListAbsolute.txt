@@ -1,0 +1,7 @@
+D:\Programs\GitRepository\C# Fundamentals\101.Exams\2011-2012 Part 1 - Sample Exam\02.MissCat\bin\Debug\02.MissCat.exe.config
+D:\Programs\GitRepository\C# Fundamentals\101.Exams\2011-2012 Part 1 - Sample Exam\02.MissCat\bin\Debug\02.MissCat.exe
+D:\Programs\GitRepository\C# Fundamentals\101.Exams\2011-2012 Part 1 - Sample Exam\02.MissCat\bin\Debug\02.MissCat.pdb
+D:\Programs\GitRepository\C# Fundamentals\101.Exams\2011-2012 Part 1 - Sample Exam\02.MissCat\obj\Debug\02.MissCat.csprojResolveAssemblyReference.cache
+D:\Programs\GitRepository\C# Fundamentals\101.Exams\2011-2012 Part 1 - Sample Exam\02.MissCat\obj\Debug\02.MissCat.csproj.CoreCompileInputs.cache
+D:\Programs\GitRepository\C# Fundamentals\101.Exams\2011-2012 Part 1 - Sample Exam\02.MissCat\obj\Debug\02.MissCat.exe
+D:\Programs\GitRepository\C# Fundamentals\101.Exams\2011-2012 Part 1 - Sample Exam\02.MissCat\obj\Debug\02.MissCat.pdb
