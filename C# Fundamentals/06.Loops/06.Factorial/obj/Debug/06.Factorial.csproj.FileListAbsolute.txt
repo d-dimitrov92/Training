@@ -1,0 +1,7 @@
+E:\Programs\GitRepository\C# Fundamentals\06.Loops\06.Factorial\bin\Debug\06.Factorial.exe.config
+E:\Programs\GitRepository\C# Fundamentals\06.Loops\06.Factorial\bin\Debug\06.Factorial.exe
+E:\Programs\GitRepository\C# Fundamentals\06.Loops\06.Factorial\bin\Debug\06.Factorial.pdb
+E:\Programs\GitRepository\C# Fundamentals\06.Loops\06.Factorial\obj\Debug\06.Factorial.csprojResolveAssemblyReference.cache
+E:\Programs\GitRepository\C# Fundamentals\06.Loops\06.Factorial\obj\Debug\06.Factorial.csproj.CoreCompileInputs.cache
+E:\Programs\GitRepository\C# Fundamentals\06.Loops\06.Factorial\obj\Debug\06.Factorial.exe
+E:\Programs\GitRepository\C# Fundamentals\06.Loops\06.Factorial\obj\Debug\06.Factorial.pdb
